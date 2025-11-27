@@ -1,0 +1,7 @@
+{
+  "name": "Mbora - Vamos?",
+  "description": "O teu aplicativo de mobilidade em Angola. Pede um Mbora e move-te com segurança e estilo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
